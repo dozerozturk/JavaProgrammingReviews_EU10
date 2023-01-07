@@ -1,0 +1,63 @@
+
+
+ctrl+alt+t >> try catch method
+
+
+
+as they are created to be parents we can not make them final
+
+there is no abstraction without inheritance
+
+-difference between abstract class and class?
+Class can be instantiated
+we cannot create an object from an abstract class
+Abstract class can not be instantiated / final. class can be
+
+
+creating an object  / responsibility of implementation / parent - child
+
+
+Abstract classes can contain abstract or concrete methods. However, abstract methods cannot be created in concrete classes.
+
+we can have variables in abstract clas
+
+abstract class is the parent class
+
+abstract class can have all the members that custom class have
+
+
+in order to cover some extra methods or partially common features we use interface
+
+-what is diff between extends and implements
+extends = 'is a', implements =include
+class,abstract          implements keywords
+
+Extend for classes, implement for interfaces
+
+class -> class ==> extends
+class -> interface ==> implements
+interface -> interface ==> extends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
